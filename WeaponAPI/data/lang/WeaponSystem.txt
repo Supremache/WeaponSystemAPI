@@ -1,0 +1,24 @@
+[en] -- Supremache
+AUTO_SELECTED = Weapon [ %s ] was selected automatically!
+NOT_EXIST = There's no weapons has created yet...
+GET_SELECT_FIELD = Get Selection
+AUTO_SELECT_FIELD = Auto Selection
+ENABLE_AUTO_SELECT = ^3Enable^1 automatic purchase of weapon^4 [ %s ]
+DISABLE_AUTO_SELECT = ^3Disable^1 automatic purchase of weapon^4 [ %s ]
+ALVIE_ONLY =  This is only available for alives
+HUMAN_ONLY = This is only available for humans
+ADMIN_ONLY = ADMIN ONLY
+VIP_ONLY = VIP ONLY
+UNAVAILABLE_LEVEL  = Unlock ( Lv: %i )
+UNAVAILABLE_SELECT = This is only available for &x04%s&x01.
+ALREAY_SELECTED = You already have been selected a weapons.
+TIMER_END = The timer menu has been end
+MENU_PRIMARY_TITLE =  Primary Menu:
+MENU_SECONDARY_TITLE = Secondary Menu:
+NOT_REGISTRED_PRIM = No primary weapons were registered
+NOT_REGISTRED_SEC = No secondry weapons were registered
+NOT_REGISTRED_YET = No weapons registered.
+MENU_TIMER = Timer:\d
+MENU_BACK = Back
+MENU_NEXT = More
+MENU_EXIT = Exit
